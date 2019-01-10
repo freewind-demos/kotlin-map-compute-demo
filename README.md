@@ -1,4 +1,4 @@
-Kotlin Hello World Demo
+Kotlin Map Compute Demo
 =======================
 
 Run `Hello.kt` in your IDE.
